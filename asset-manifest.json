@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a98d9522.css",
+    "main.js": "/static/js/main.2ff06f84.js",
+    "static/js/453.69590570.chunk.js": "/static/js/453.69590570.chunk.js",
+    "static/media/login.jpg": "/static/media/login.6248bc80c4b359bd897b.jpg",
+    "static/media/signup.jpg": "/static/media/signup.46b14cd187dd16ab70f5.jpg",
+    "static/media/BagelFatOne-Regular.ttf": "/static/media/BagelFatOne-Regular.036565a8126d1bf2ae0c.ttf",
+    "static/media/reSearch.png": "/static/media/reSearch.2a622d045a9a4fcf3250.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/icon-share.svg": "/static/media/icon-share.0d086c508bbe706dc7933d66ca3920d1.svg",
+    "index.html": "/index.html",
+    "static/media/angle-small-right.svg": "/static/media/angle-small-right.7a2f9da2b2038bd992610f46bf7e0cd4.svg",
+    "static/media/angle-small-left.svg": "/static/media/angle-small-left.3a413556b50ac34b978c2aa906eff54e.svg",
+    "main.a98d9522.css.map": "/static/css/main.a98d9522.css.map",
+    "main.2ff06f84.js.map": "/static/js/main.2ff06f84.js.map",
+    "453.69590570.chunk.js.map": "/static/js/453.69590570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a98d9522.css",
+    "static/js/main.2ff06f84.js"
+  ]
+}
